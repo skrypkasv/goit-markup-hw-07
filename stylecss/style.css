@@ -30,6 +30,21 @@
 /*  */
 /*  */
 /*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
 /* Общие свойства элементов */
 html {
   box-sizing: border-box;
@@ -64,10 +79,11 @@ body {
   margin-right: auto;
   width: 1200px;
   padding: 0 15px;
-  /* outline: 2px solid navy; */
+  /* outline: 1px solid navy; */
 }
 .section .container {
   padding: 94px 15px;
+  /* outline: 1px solid tomato; */
 }
 
 /* Заголовки секций */
@@ -147,6 +163,16 @@ body {
 .social .link:focus {
   background-color: var(--accent-color);
 }
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
 /*  */
 /*  */
 /*  */
